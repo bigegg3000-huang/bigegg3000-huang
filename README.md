@@ -61,7 +61,7 @@ I enjoy contributing to the tech community through open-source projects and blog
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigegg3000)](https://solved.ac/bigegg3000/)  
 -->
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SWARVY/SWARVY/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SWARVY/SWARVY/output/pacman-contribution-graph.svg">
