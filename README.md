@@ -4,6 +4,9 @@
   Coding Master | Tech Developer 
 </p>
 
+[Eng](https://github.com/bigegg3000-huang/bigegg3000-huang/blob/main/README.md)
+[Kor](https://github.com/bigegg3000-huang/bigegg3000-huang/blob/main/README-kr.md)
+
 ---
 
 ### 💻 About Me
