@@ -24,12 +24,47 @@ I enjoy contributing to the tech community through open-source projects and blog
 #### 🧰 Tools  
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Heroku](https://skillicons.dev/icons?i=heroku) ![Apidog](https://img.shields.io/badge/Apidog-%23FF4D4F.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,aws,grafana,prometheus,docker,)](https://skillicons.dev)  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-00C58E?style=for-the-badge&logo=caddy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,rust,go,visualstudio,vscode,maven,gradle,js,ts,html,php,css,workers,unity)](https://github.com/bigegg3000-huang)
+
+
+
 ---
 
 ### 📢 Connection
 
 - 🌐 Blog: https://www.supergodgod.github.io  
 - 📧 Mail: supersupercodingmasterh@gmail.com  
+
+
+---
+### Plus
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bigegg3000-huang)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bigegg3000-huang)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bigegg3000-huang&layout=compact)
+
+
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigegg3000)](https://solved.ac/bigegg3000/)  
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SWARVY/SWARVY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SWARVY/SWARVY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SWARVY/SWARVY/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
@@ -38,3 +73,4 @@ I enjoy contributing to the tech community through open-source projects and blog
 </p>
 
 ---
+(This README.md contains content written for testing purposes and is not factual)
