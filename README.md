@@ -55,7 +55,7 @@ I enjoy contributing to the tech community through open-source projects and blog
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bigegg3000-huang)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bigegg3000-huang&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bigegg3000-huang&layout=compact) 
 
 
 <!--
