@@ -53,6 +53,10 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bigegg3000-huang&layout=compact)
 
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bigegg3000-huang)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bigegg3000-huang&langs_count=13)
+
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigegg3000)](https://solved.ac/bigegg3000/)  
